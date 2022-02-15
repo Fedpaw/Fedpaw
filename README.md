@@ -1,4 +1,11 @@
-### Hi there 👋
+### Привет!
+### Меня зовут Павел, я JavaScript Developer.
+### Мой стек : HTML, CSS , JavaScript, React, Redux, Node JS, Express, PostreSQL, Sequelize, Git.
+### В настоящее время ищу позицию в интересном командном проекте.
+### Всегда рад пообщаться:
+* mobile: +7 906 737 93 91
+* [Telegram: @Fedpaw](https://t.me/Fedpaw)
+* [Email: fedorovpavel.fp@gmail.com](mailto:fedorovpavel.fp@gmail.com)
 
 <!--
 **Fedpaw/Fedpaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
