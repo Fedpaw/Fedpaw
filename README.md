@@ -4,7 +4,7 @@
 ### В настоящее время ищу позицию в интересном командном проекте.
 ### Всегда рад пообщаться:
 * mobile: +7 906 737 93 91
-* [Telegram: @Fedpaw](https://t.me/Fedpaw)
+* [Telegram: @Fedpaw](https://t.me/fedpaw)
 * [Email: fedorovpavel.fp@gmail.com](mailto:fedorovpavel.fp@gmail.com)
 
 <!--
